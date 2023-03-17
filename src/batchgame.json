@@ -1,0 +1,34 @@
+{
+  "Game": [
+    {
+      "PutRequest": {
+        "Item": {
+          "nome": { "S": "The Last of Us" },
+          "ano_lancamento": { "S": "2013" },
+          "desenvolvedora": { "S": "Naughty Dog" },
+          "preco": { "S": "160" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "nome": { "S": "the witcher 3" },
+          "ano_lancamento": { "S": "2015" },
+          "desenvolvedora": { "S": "CD Projekt Red" },
+          "preco": { "S": "100" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "nome": { "S": "Biochock Infinite" },
+          "ano_lancamento": { "S": "2013" },
+          "desenvolvedora": { "S": "Irrational Games" },
+          "preco": { "S": "110" }
+        }
+      }
+    }
+  ]
+}
